@@ -1,0 +1,23 @@
+.imso_mh__ma-sc-cont, .imso_mh__score-sum, div.imspo_mt__tt-w, td.imspo_mt__rg, .imspo_mt__lg-st-co > div, .tsp-oh {
+  opacity: 0;
+}
+
+.imso_mh__ma-sc-cont:hover, .imso_mh__score-sum:hover, div.imspo_mt__tt-w:hover, td.imspo_mt__rg:hover, .imspo_mt__lg-st-co:hover > div, .tsp-oh:hover {
+  opacity: 1;
+}
+
+.imso_mh__tm-a-st{
+  position: relative;
+}
+
+.imso_mh__tm-a-sts::before, .tsp-dib::before, .ml-bs-u::before {
+  content: "Passe o mouse para ver o resultado.";
+  color: red;
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.mus_tt20 {
+  display: none;
+}
