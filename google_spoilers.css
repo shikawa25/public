@@ -12,10 +12,14 @@
 
 .imso_mh__tm-a-sts::before, .tsp-dib::before, .ml-bs-u::before {
   content: "Passe o mouse para ver o resultado.";
-  color: red;
+  text-shadow: 0 0 5px red;
   left: 50%;
   position: absolute;
-  transform: translateX(-50%);
+  transform: translate(-50%, -120%);
+}
+
+.imso_mh__tm-a-sts, .tsp-dib, .ml-bs-u {
+  margin: 2rem 0px;
 }
 
 .mus_tt20 {
