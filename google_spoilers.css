@@ -23,5 +23,5 @@
 }
 
 .mus_tt20 {
-  display: none;
+  display: none !important;
 }
