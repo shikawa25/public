@@ -1,4 +1,4 @@
-.imso_mh__ma-sc-cont, .imso_mh__score-sum, div.imspo_mt__tt-w, td.imspo_mt__rg, .imspo_mt__lg-st-co > div, .tsp-oh {
+.imso_mh__ma-sc-cont, .imso_mh__score-sum, div.imspo_mt__tt-w, td.imspo_mt__rg, .imspo_mt__lg-st-co > div, .tsp-oh, .mus_tt20 {
   opacity: 0;
 }
 
@@ -20,9 +20,5 @@
 
 .imso_mh__tm-a-sts, .tsp-dib, .ml-bs-u {
   margin: 2rem 0px;
-}
-
-.mus_tt20 {
-  display: none !important;
 }
 
