@@ -10,7 +10,6 @@
 
 .imso_mh__tm-a-sts::before, .tsp-dib::before, .ml-bs-u::before {
   content: "Passe o mouse para ver o resultado.";
-  color: red;
   text-shadow: 0 0 5px red;
   left: 50%;
   position: absolute;
